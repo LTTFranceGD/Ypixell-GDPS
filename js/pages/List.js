@@ -101,8 +101,10 @@ export default {
                     <h3>Demonlist Update</h3>
                     <p>
                         1.1.8 - 27/10/2025
+                    </p>
                     <p>  
                         16 demons have been added
+                    </p>
                     <p>
                         Modifications of the 2 themes (dark mode + pink / dark mode + light green)
                     </p>
