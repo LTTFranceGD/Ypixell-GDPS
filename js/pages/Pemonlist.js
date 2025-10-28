@@ -20,7 +20,7 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-        <main v-else class="page-pemonlist">
+        <main v-else class="page-list">
             <div class="pemonlist-container">
                 <table class="pemonlist" v-if="pemonlist">
                     <tr v-for="([level, err], i) in list">
