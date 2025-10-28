@@ -5,7 +5,7 @@
     "creators": ["Jarkam34"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/kuNQN9mYW40",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=JRCa5uX6n4A",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "LordRetrace",
+            "link": "https://www.youtube.com/watch?v=hDkvEF2dxWw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
