@@ -5,7 +5,7 @@
     "creators": ["LicorneGDPS"],
     "verifier": "LicorneGDPS",
     "verification": "https://www.youtube.com/watch?v=7xo0iwpsZR0",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/tx295MUosac",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "LordRetrace",
+            "link": "https://www.youtube.com/watch?v=hDkvEF2dxWw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
