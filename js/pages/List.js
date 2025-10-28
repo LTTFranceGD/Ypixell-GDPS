@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.2.0 - 28/10/2025
+                       Version 1.2.1 - 28/10/2025
                     </p>
                     <p>  
                         2 demons ont été ajoutés sur la Demonlist
