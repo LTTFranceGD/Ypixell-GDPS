@@ -103,7 +103,7 @@ export default {
                        Version 1.2.0 - 28/10/2025
                     </p>
                     <p>  
-                        2 demons have been added
+                        2 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
                     
@@ -112,10 +112,10 @@ export default {
                        Version 1.1.8 - 27/10/2025
                     </p>
                     <p>  
-                        16 demons have been added
+                        16 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
-                        Modifications of the 2 themes (dark mode + pink / dark mode + light green)
+                        Modification des 2 thèmes (mode sombre + rose / mode sombre + vert clair)
                     </p>
                 </div>
             </div>
