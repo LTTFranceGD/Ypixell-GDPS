@@ -103,7 +103,7 @@ export default {
                        Version 1.2.1 - 28/10/2025
                     </p>
                     <p>  
-                        2 demons ont été ajoutés sur la Demonlist
+                        3 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
                     
