@@ -21,8 +21,8 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-pemonlist">
-            <div class="list-container">
-                <table class="list" v-if="list">
+            <div class="pemonlist-container">
+                <table class="pemonlist" v-if="pemonlist">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
