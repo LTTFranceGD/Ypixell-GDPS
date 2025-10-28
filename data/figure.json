@@ -5,8 +5,14 @@
     "creators": ["popo2"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/9SxpP-1mnUc",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LordRetrace",
+            "link": "https://www.youtube.com/watch?v=hDkvEF2dxWw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
