@@ -5,8 +5,14 @@
     "creators": ["nooumi"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/tv7qvMOcjYE",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LicorneGDPS",
+            "link": "https://www.youtube.com/watch?v=Vds4i3LVe3Q",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
