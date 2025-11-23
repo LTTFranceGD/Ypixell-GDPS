@@ -5,7 +5,7 @@
     "creators": ["RedSpeedGMD"],
     "verifier": "RedSpeedGMD",
     "verification": "https://www.youtube.com/watch?v=8P7_Vp6suO4",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=lfXa1XX-lt4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "LTTFrance",
+            "link": "https://youtu.be/ze7gQQYThfk",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
