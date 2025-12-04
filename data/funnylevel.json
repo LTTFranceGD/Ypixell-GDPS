@@ -5,8 +5,14 @@
     "creators": ["Team98"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/CMbxAq0D9lI",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LicorneGDPS",
+            "link": "https://www.youtube.com/watch?v=UFvm3XDdJs0",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
