@@ -106,6 +106,9 @@ export default {
                         12 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
+                    
+                    </p>
+                    <p>
                        Version 1.2.3 - 28/10/2025
                     </p>
                     <p>  
