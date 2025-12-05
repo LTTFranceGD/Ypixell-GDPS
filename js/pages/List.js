@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.4.8 - 05/12/2025
+                       Version 1.4.9 - 05/12/2025
                     </p>
                     <p>  
                         12 demons ont été ajoutés sur la Demonlist
@@ -109,6 +109,7 @@ export default {
                         13 niveaux ont changé de places dans la liste
                     </p>
                     <p>
+                        every where passe de Medium à Easy Demon
                     
                     </p>
                     <p>
