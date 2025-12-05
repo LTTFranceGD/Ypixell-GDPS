@@ -100,10 +100,10 @@ export default {
                     </template>
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.4.9 - 05/12/2025
+                       Version 1.5.0 - 05/12/2025
                     </p>
                     <p>  
-                        12 demons ont été ajoutés sur la Demonlist
+                        13 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
                         13 niveaux ont changé de places dans la liste
