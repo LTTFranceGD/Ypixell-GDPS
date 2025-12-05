@@ -115,6 +115,9 @@ export default {
                         5 demons ont été ajoutés sur la Demonlist
                     </p>
                     <p>
+                    
+                    </p>
+                    <p>
                        Version 1.1.8 - 27/10/2025
                     </p>
                     <p>  
