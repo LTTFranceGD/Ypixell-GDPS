@@ -100,10 +100,13 @@ export default {
                     </template>
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.5.4 - 06/12/2025
+                       Version 1.5.5 - 06/12/2025
                     </p>
                     <p>  
                         3 demons ont été ajoutés sur la Demonlist
+                    </p>
+                    <p>
+                        i LOVE Camellia a été supprimé du GDPS (y compris de la Demonlist
                     </p>
                     <p>
 
