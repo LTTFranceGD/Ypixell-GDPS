@@ -113,7 +113,7 @@ export default {
                     </p>
                     <p> 
                        Feyko (Serveur Discord)
-                    <p> 
+                    </p> 
                     <h3>Demonlist Update</h3>
                     <p>
                        Version 1.5.5 - 06/12/2025
