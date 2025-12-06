@@ -98,6 +98,8 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>List of Moderator</h3>
+                    <p>
                     <h3>Demonlist Update</h3>
                     <p>
                        Version 1.5.5 - 06/12/2025
