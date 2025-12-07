@@ -116,6 +116,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                       Version 1.6.3 - 07/12/2025
+                    </p>
+                    <p>  
+                        RedRaph56 s'est retiré en tant que modérateur du GDPS
+                    </p>
+                    <p>  
+
+                    </p>
+                    <p>  
                        Version 1.6.2 - 06/12/2025
                     </p>
                     <p>  
