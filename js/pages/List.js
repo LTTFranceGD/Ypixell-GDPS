@@ -119,7 +119,7 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.6.4 - 07/12/2025
+                       Version 1.6.5 - 07/12/2025
                     </p>
                     <p>  
                         RedRaph56 s'est retiré en tant que modérateur du GDPS
@@ -128,13 +128,16 @@ export default {
                         LTTFrance est devenu modérateur du GDPS
                     </p>
                     <p> 
+                        Spam Circles a été ajouté dans la Demonlist
+                    </p>
+                    <p>
 
                     </p>
                     <p>  
                        Version 1.6.2 - 06/12/2025
                     </p>
                     <p>  
-                        3 demons ont été ajoutés sur la Demonlist
+                        3 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
                         i LOVE Camellia a été supprimé du GDPS (y compris de la Demonlist)
@@ -152,7 +155,7 @@ export default {
                        Version 1.5.1 - 05/12/2025
                     </p>
                     <p>  
-                        14 demons ont été ajoutés sur la Demonlist
+                        14 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
                         13 niveaux ont changé de places dans la liste
@@ -167,7 +170,7 @@ export default {
                        Version 1.2.3 - 28/10/2025
                     </p>
                     <p>  
-                        5 demons ont été ajoutés sur la Demonlist
+                        5 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
                     
@@ -176,7 +179,7 @@ export default {
                        Version 1.1.8 - 27/10/2025
                     </p>
                     <p>  
-                        16 demons ont été ajoutés sur la Demonlist
+                        16 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
                         Modification des 2 thèmes (mode sombre + rose / mode sombre + vert clair)
