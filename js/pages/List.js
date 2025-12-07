@@ -100,28 +100,34 @@ export default {
                     </template>
                     <h3>List of Moderator</h3>
                     <p>
-                       ypixell (Serveur Discord & GDPS)
+                       ypixell (Discord & GDPS)
                     </p>
                     <p> 
-                       Aray (Serveur Discord & GDPS)
+                       Aray (Discord & GDPS)
                     </p>
                     <p> 
-                       Edensonic (Serveur Discord & GDPS)
+                       Edensonic (Discord & GDPS)
                     </p>
                     <p> 
-                       Feyko (Serveur Discord)
+                       LTTFrance (Demonlist & GDPS)
+                    </p>
+                    <p> 
+                       Feyko (Discord)
                     </p>
                     <p>
                     
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.6.3 - 07/12/2025
+                       Version 1.6.4 - 07/12/2025
                     </p>
                     <p>  
                         RedRaph56 s'est retiré en tant que modérateur du GDPS
                     </p>
-                    <p>  
+                    <p> 
+                        LTTFrance est devenu modérateur du GDPS
+                    </p>
+                    <p> 
 
                     </p>
                     <p>  
