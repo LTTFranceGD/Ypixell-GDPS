@@ -119,10 +119,10 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.6.6 - 26/12/2025
+                       Version 1.6.7 - 26/12/2025
                     </p>
                     <p>  
-                        Get Green a été ajouté dans la Demonlist
+                        2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p> 
                     
