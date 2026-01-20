@@ -5,8 +5,14 @@
     "creators": ["Manixus","LTTFrance"],
     "verifier": "LTTFrance",
     "verification": "https://www.youtube.com/watch?v=jRoqcW3G-Ck",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Vyquisis",
+            "link": "https://www.youtube.com/watch?v=DB8m7Q8Y2xM",
+            "percent": 100,
+            "hz": 575
+        }
     ]
 }
