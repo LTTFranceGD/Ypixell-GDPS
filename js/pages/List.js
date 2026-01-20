@@ -119,7 +119,6 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                    <p> 
                        Version 1.6.9 - 20/01/2026
                     </p>
                     <p>  
