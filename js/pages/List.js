@@ -119,10 +119,10 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.7.0 - 15/03/2026
+                       Version 1.7.1 - 15/03/2026
                     </p>
                     <p>  
-                       Theory Of Nothing 2 a été ajouté dans la Demonlist
+                       2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
 
