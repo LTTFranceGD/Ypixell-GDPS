@@ -124,6 +124,9 @@ export default {
                     <p>  
                        2 demons ont été ajoutés dans la Demonlist
                     </p>
+                    <p>  
+                       le dernier jour est le nouveau Top 1 de la Demonlist
+                    </p>
                     <p>
 
                     </p>
