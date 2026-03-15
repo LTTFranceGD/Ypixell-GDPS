@@ -5,8 +5,14 @@
     "creators": ["nooumi"],
     "verifier": "LTTFrance",
     "verification": "https://www.youtube.com/watch?v=grwFRn0lgrc",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Anix",
+            "link": "https://www.youtube.com/watch?v=lO0XN5Ypwm8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
