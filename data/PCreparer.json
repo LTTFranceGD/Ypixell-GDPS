@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=iUwmI52kSGI",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "LTTFrance",
+            "link": "https://youtu.be/EWcujyiN3qM",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
