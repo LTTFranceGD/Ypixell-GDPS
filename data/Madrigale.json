@@ -5,8 +5,14 @@
     "creators": ["LicorneGDPS"],
     "verifier": "LgMartin",
     "verification": "https://www.youtube.com/watch?v=dBBmodFKSWc",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LicorneGDPS",
+            "link": "https://www.youtube.com/watch?v=-bhk3R-Q42E",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
