@@ -119,6 +119,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                       Version 1.7.0 - 15/03/2026
+                    </p>
+                    <p>  
+                       Theory Of Nothing 2 a été ajouté dans la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                        Version 1.6.9 - 20/01/2026
                     </p>
                     <p>  
