@@ -119,12 +119,18 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.7.4 - 18/03/2026
+                       Version 1.7.6 - 18/03/2026
                     </p>
                     <p>  
                        2 demons ont été ajoutés dans la Demonlist
                     </p>
-                    <p>  
+                    <p>
+                       vertical challenge for hater passe de Extreme Demon à Insane Demon
+                    </p>
+                    <p> 
+                       Stereo Buffness passe de Insane Demon à Extreme Demon
+                    </p>
+                    <p>
 
                     </p>
                     <p>
@@ -133,7 +139,7 @@ export default {
                     <p>  
                        Royal Ascension a été ajouté dans la Demonlist
                     </p>
-                    <p>  
+                    <p> 
 
                     </p>
                     <p>
