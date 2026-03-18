@@ -119,10 +119,10 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                       Version 1.7.3 - 18/03/2026
+                       Version 1.7.4 - 18/03/2026
                     </p>
                     <p>  
-                       Stereo Buffness a été ajouté dans la Demonlist
+                       2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>  
 
