@@ -119,13 +119,16 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                        Version 1.7.8 - 09/04/2026
+                        Version 1.8.0 - 09/04/2026
                     </p>
                     <p>  
                        Silent Akbar a été supprimé du GDPS (y compris de la Demonlist)
                     </p>
                     <p>
-                       la vie a été ajouté dans la Demonlist
+                       Challengies a été retiré de la Demonlist
+                    </p>
+                    <p>
+                       2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
 
