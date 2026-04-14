@@ -239,7 +239,7 @@ export default {
                         13 niveaux ont changé de places dans la liste
                     </p>
                     <p>
-                        every where passe de Medium à Easy Demon
+                        every where passe de Medium Demon à Easy Demon
                     </p>
                     <p>
                     
