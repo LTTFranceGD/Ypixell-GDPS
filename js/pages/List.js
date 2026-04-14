@@ -119,13 +119,16 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 1.8.4 - 14/04/2026
+                         Version 1.8.6 - 14/04/2026
                     </p>
                     <p>  
                        ras de marait II re-devient le niveau le plus dur de la Demonlist
                     </p>
                     <p>
                        3 demons ont été ajoutés dans la Demonlist
+                    </p>
+                    <p>
+                       Stereo Buffness et galactic wave passe de Extreme Demon à Insane Demon
                     </p>
                     <p>
 
