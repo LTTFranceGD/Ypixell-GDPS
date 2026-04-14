@@ -5,8 +5,14 @@
     "creators": ["realriscko","Vyquisis"],
     "verifier": "Vyquisis",
     "verification": "https://www.youtube.com/watch?v=ywzZgxyKUKM",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Anix",
+            "link": "https://www.youtube.com/watch?v=O6lmf2rC31o",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
