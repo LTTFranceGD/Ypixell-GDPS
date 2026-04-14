@@ -5,7 +5,7 @@
     "creators": ["realriscko","Vyquisis"],
     "verifier": "Vyquisis",
     "verification": "https://www.youtube.com/watch?v=ywzZgxyKUKM",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=O6lmf2rC31o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LTTFrance",
+            "link": "https://youtu.be/xmX7sMvRbGc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
