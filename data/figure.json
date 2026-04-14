@@ -5,7 +5,7 @@
     "creators": ["popo2"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/9SxpP-1mnUc",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=hDkvEF2dxWw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Vyquisis",
+            "link": "https://www.youtube.com/watch?v=ZSBWKk640aE",
+            "percent": 100,
+            "hz": 575
         }
     ]
 }
