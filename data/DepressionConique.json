@@ -1,0 +1,18 @@
+{
+    "id": 561,
+    "name": "Extreme - Depression Conique",
+    "author": "Anix",
+    "creators": ["Anix","Vyquisis"],
+    "verifier": "Vyquisis",
+    "verification": "https://www.youtube.com/watch?v=reHRUJ7neIc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LTTFrance",
+            "link": "https://youtu.be/YxcuXiGRkyQ",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
