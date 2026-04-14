@@ -119,6 +119,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                         Version 1.8.1 - 14/04/2026
+                    </p>
+                    <p>  
+                       ras de marait II re-devient le niveau le plus dur de la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                         Version 1.8.0 - 09/04/2026
                     </p>
                     <p>  
