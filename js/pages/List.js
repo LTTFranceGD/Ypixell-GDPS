@@ -119,6 +119,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                         Version 1.8.7 - 15/04/2026
+                    </p>
+                    <p>
+                       Manixus Choose Way 2 a été ajouté dans la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                          Version 1.8.6 - 14/04/2026
                     </p>
                     <p>  
