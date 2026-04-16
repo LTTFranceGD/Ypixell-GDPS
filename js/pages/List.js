@@ -119,10 +119,10 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 1.8.8 - 16/04/2026
+                         Version 1.8.9 - 16/04/2026
                     </p>
                     <p>
-                       caramell a été ajouté dans la Demonlist
+                       2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
 
