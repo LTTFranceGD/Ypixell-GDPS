@@ -5,7 +5,7 @@
     "creators": ["nooumi"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/kyOB-rAZJ60",
-    "percentToQualify": "500",
+    "percentToQualify": "600",
     "password": "Free To Copy",
     "records": [
         {
@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=6DpWl8wOf7A",
             "percent": 100,
             "hz": 90
+        },
+        {
+            "user": "RedSpeedGMD",
+            "link": "https://www.youtube.com/watch?v=21-KpShS_N4",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
