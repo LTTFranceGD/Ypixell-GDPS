@@ -119,7 +119,7 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 1.9.5 - 17/04/2026
+                         Version 1.9.6 - 17/04/2026
                     </p>
                     <p>
                        anna tue moi passe devant welcome to hell dans la Demonlist
@@ -128,7 +128,7 @@ export default {
                        4 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
-                       Le point maximum passe de 200 à 250 pts
+                       Le point maximum passe de 200 à 250 pts (y compris les points qui seront arrondi au nombre près)
                     </p>
                     <p>
 
