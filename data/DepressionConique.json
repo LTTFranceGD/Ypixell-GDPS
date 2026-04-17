@@ -5,7 +5,7 @@
     "creators": ["Anix","Vyquisis"],
     "verifier": "Vyquisis",
     "verification": "https://www.youtube.com/watch?v=reHRUJ7neIc",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/YxcuXiGRkyQ",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=oxNcL9hivmA",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
