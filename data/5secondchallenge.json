@@ -5,7 +5,7 @@
     "creators": ["nooumi"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/kyOB-rAZJ60",
-    "percentToQualify": "600",
+    "percentToQualify": "700",
     "password": "Free To Copy",
     "records": [
         {
@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=21-KpShS_N4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=omSsxxoWE_0",
+            "percent": 100,
+            "hz": 140
         }
     ]
 }
