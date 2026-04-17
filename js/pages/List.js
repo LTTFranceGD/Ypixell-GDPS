@@ -119,6 +119,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                         Version 1.9.0 - 17/04/2026
+                    </p>
+                    <p>
+                       anna tue moi passe devant welcome to hell dans la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                          Version 1.8.9 - 16/04/2026
                     </p>
                     <p>
