@@ -5,8 +5,14 @@
     "creators": ["sipix","Vyquisis"],
     "verifier": "Vyquisis",
     "verification": "https://youtu.be/KD6pMuLFwMs",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LTTFrance",
+            "link": "https://youtu.be/mCoedFe-RLE",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
