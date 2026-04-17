@@ -119,13 +119,13 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 1.9.1 - 17/04/2026
+                         Version 1.9.3 - 17/04/2026
                     </p>
                     <p>
                        anna tue moi passe devant welcome to hell dans la Demonlist
                     </p>
                     <p>
-                       skibidi minion a été ajouté dans la Demonlist
+                       3 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
 
