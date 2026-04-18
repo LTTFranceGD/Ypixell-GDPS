@@ -109,9 +109,6 @@ export default {
                        Aray (Discord & GDPS)
                     </p>
                     <p> 
-                       Edensonic (Discord & GDPS)
-                    </p>
-                    <p> 
                        Vyquisis (Discord & GDPS)
                     </p>
                     <p> 
@@ -122,7 +119,7 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 2.0.4 - 18/04/2026
+                         Version 2.0.5 - 18/04/2026
                     </p>
                     <p>
                        Challengies et another challenge changent de place dans la Demonlist
@@ -141,6 +138,9 @@ export default {
                     </p>
                     <p>
                        The Wave a été ajouté dans la Demonlist
+                    </p>
+                    <p>
+                       Edensonic s'est retiré en tant que modérateur du GDPS et Discord
                     </p>
                     <p>
 
