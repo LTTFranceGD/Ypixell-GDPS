@@ -100,6 +100,9 @@ export default {
                     </template>
                     <h3>List of Moderator</h3>
                     <p>
+                       LTTFrance (Discord, Demonlist & GDPS)
+                    </p>
+                    <p> 
                        ypixell (Discord & GDPS)
                     </p>
                     <p> 
@@ -109,7 +112,7 @@ export default {
                        Edensonic (Discord & GDPS)
                     </p>
                     <p> 
-                       LTTFrance (Demonlist & GDPS)
+                       Vyquisis (Discord & GDPS)
                     </p>
                     <p> 
                        Feyko (Discord)
@@ -119,10 +122,16 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 1.9.7 - 18/04/2026
+                         Version 2.0.0 - 18/04/2026
                     </p>
                     <p>
-                       Challengies passe devant another challenge dans la Demonlist
+                       Challengies et another challenge changent de place dans la Demonlist
+                    </p>
+                    <p>
+                       Vyquisis devient le nouveau modérateur du GDPS et du serveur Discord
+                    </p>
+                    <p>
+                       Controle Technique a été supprimé du GDPS (y compris de la Demonlist)
                     </p>
                     <p>
 
