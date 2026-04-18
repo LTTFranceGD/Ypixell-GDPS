@@ -5,8 +5,14 @@
     "creators": ["Jarkam34"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/KD6pMuLFwMs",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Anix",
+            "link": "https://www.youtube.com/watch?v=n4kdMta1JCQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
