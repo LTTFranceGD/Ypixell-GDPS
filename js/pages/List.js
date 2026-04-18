@@ -119,6 +119,15 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                         Version 1.9.7 - 18/04/2026
+                    </p>
+                    <p>
+                       Challengies passe devant another challenge dans la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                          Version 1.9.6 - 17/04/2026
                     </p>
                     <p>
