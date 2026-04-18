@@ -122,7 +122,7 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 2.0.2 - 18/04/2026
+                         Version 2.0.3 - 18/04/2026
                     </p>
                     <p>
                        Challengies et another challenge changent de place dans la Demonlist
@@ -135,6 +135,9 @@ export default {
                     </p>
                     <p>
                        Stereo Buffness passe de Insane Demon à Extreme Demon (au dessus de galactic wave)
+                    </p>
+                    <p>
+                       Le logo de l'onglet de la Demonlist a été changé par le cube du GDPS
                     </p>
                     <p>
 
