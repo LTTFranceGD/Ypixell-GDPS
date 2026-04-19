@@ -5,8 +5,14 @@
     "creators": ["LTTFrance"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/Ycgr6s-WiWg",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Anix",
+            "link": "https://www.youtube.com/watch?v=cGGEQbGEJbU",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
