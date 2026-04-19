@@ -8,5 +8,11 @@
     "percentToQualify": "0",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=bdys2Au78pY",
+            "percent": 100,
+            "hz": 140
+        }
     ]
 }
