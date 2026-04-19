@@ -5,7 +5,7 @@
     "creators": ["LTTFrance"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/zRSS6dZE8p0",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=nUScF8BrOQA",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=i82k-jIro5A",
+            "percent": 100,
+            "hz": 140
         }
     ]
 }
