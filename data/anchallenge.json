@@ -5,7 +5,7 @@
     "creators": ["nooumi"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/lCG_f6DxHms",
-    "percentToQualify": "200",
+    "percentToQualify": "300",
     "password": "Free To Copy",
     "records": [
         {
@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=SsCUWE6yqWU",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Jarkam34",
+            "link": "https://www.youtube.com/watch?v=H4J6l86LFEE",
+            "percent": 100,
+            "hz": 90
         }
     ]
 }
