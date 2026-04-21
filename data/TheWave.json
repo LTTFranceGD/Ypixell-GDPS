@@ -5,14 +5,20 @@
     "creators": ["Speed_Dragons"],
     "verifier": "Speed_Dragons",
     "verification": "https://www.youtube.com/watch?v=l3mQaW1AO30",
-    "percentToQualify": "100",
+    "percentToQualify": "200",
     "password": "Free To Copy",
     "records": [
-      {
+        {
             "user": "LTTFrance",
             "link": "https://youtu.be/bu426HVyApQ",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=SEXXYhHxyeQ",
+            "percent": 100,
+            "hz": 140
         }
     ]
 }
