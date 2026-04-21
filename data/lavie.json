@@ -5,8 +5,14 @@
     "creators": ["sipix"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/_8e13JzRFs0",
-    "percentToQualify": "0",
+    "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "IlyKhel_",
+            "link": "https://www.youtube.com/watch?v=GplWJvKui9E",
+            "percent": 100,
+            "hz": 140
+        }
     ]
 }
