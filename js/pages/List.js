@@ -119,10 +119,10 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
-                         Version 2.1.0 - 21/04/2026
+                         Version 2.1.1 - 21/04/2026
                     </p>
                     <p>
-                       Spam Circles (Unnerfed) a été ajouté dans la Demonlist
+                       2 demons ont été ajoutés dans la Demonlist
                     </p>
                     <p>
                        o2 space passe de Insane Demon à Extreme Demon
