@@ -100,9 +100,6 @@ export default {
                     </template>
                     <h3>List of Moderator</h3>
                     <p>
-                       LTTFrance (Discord, Demonlist & GDPS)
-                    </p>
-                    <p> 
                        ypixell (Discord & GDPS)
                     </p>
                     <p> 
@@ -115,6 +112,9 @@ export default {
                        Feyko (Discord)
                     </p>
                     <p>
+                       Anix (Demonlist)
+                    </p>
+                    <p> 
                     
                     </p> 
                     <h3>Demonlist Update</h3>
