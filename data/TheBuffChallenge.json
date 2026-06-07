@@ -5,7 +5,7 @@
     "creators": ["LTTFrance"],
     "verifier": "LTTFrance",
     "verification": "https://youtu.be/Ycgr6s-WiWg",
-    "percentToQualify": "200",
+    "percentToQualify": "300",
     "password": "Free To Copy",
     "records": [
         {
@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=-sNs50Wg_Dc",
             "percent": 100,
             "hz": 140
+        },
+        {
+            "user": "LicorneGDPS",
+            "link": "https://www.youtube.com/watch?v=JG3ECPQsneg",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
