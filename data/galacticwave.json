@@ -5,7 +5,7 @@
     "creators": ["realriscko","Vyquisis"],
     "verifier": "Vyquisis",
     "verification": "https://www.youtube.com/watch?v=ywzZgxyKUKM",
-    "percentToQualify": "300",
+    "percentToQualify": "500",
     "password": "Free To Copy",
     "records": [
         {
@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=i82k-jIro5A",
             "percent": 100,
             "hz": 90
+        },
+        {
+            "user": "LicorneGDPS",
+            "link": "https://www.youtube.com/watch?v=ZCVOyMs5cPc",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
