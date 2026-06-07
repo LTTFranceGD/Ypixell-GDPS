@@ -119,6 +119,21 @@ export default {
                     </p> 
                     <h3>Demonlist Update</h3>
                     <p>
+                         Version 2.1.4 - 07/06/2026
+                    </p>
+                    <p>
+                       cts a été ajouté dans la Demonlist
+                    </p>
+                    <p>
+                       LTTFrance s'est retiré en tant que modérateur du GDPS, Discord et de la Demonlist
+                    </p>
+                    <p>
+                       Anix devient le nouveau modérateur de la Demonlist
+                    </p>
+                    <p>
+
+                    </p>
+                    <p>
                          Version 2.1.1 - 21/04/2026
                     </p>
                     <p>
