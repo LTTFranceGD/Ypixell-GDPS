@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=Rq2W5SHOjrQ",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Drax",
+            "link": "https://youtu.be/gU7QbJj_4Kg?is=gBIaETLedGxhbXtS",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
