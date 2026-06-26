@@ -112,7 +112,7 @@ export default {
                        Feyko (Discord)
                     </p>
                     <p>
-                       Anix (Demonlist)
+                       Anix (Demonlist & GDPS)
                     </p>
                     <p> 
                     
